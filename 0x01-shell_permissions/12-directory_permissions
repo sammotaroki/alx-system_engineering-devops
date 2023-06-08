@@ -1,2 +1,2 @@
 #!/bin/bash
-touch -m ugo+rx  my_dir
+mkdir -m ugo+rx my_dir

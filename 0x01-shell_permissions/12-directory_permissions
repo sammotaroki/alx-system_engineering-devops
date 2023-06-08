@@ -1,2 +1,2 @@
 #!/bin/bash
-touch -m 751  my_dir
+touch -m ugo+rx  my_dir
